@@ -1,18 +1,19 @@
-
 # 👋 Hey, I’m Kevin Gilbert (TB)  
-### **AI Systems Operator | Framework Architect | Story Engineer | Blue-Collar Builder**
+### **AI Systems Operator | Framework Architect | Story Engineer | Midwestern Builder**
 
-I’m a machinist-turned-AI systems operator building **Ironbound Lab** — a set of drift-proof protocols, cognitive frameworks, and multi-model orchestration tools designed to stabilize advanced LLM workflows.
+I’m a Midwestern machinist and father who creates in the margins of his life — between laser cuts, on lunch breaks, and after the world goes quiet.  
+What I build isn’t code or apps.  
+I build **systems**: tools for controlling drift, structuring thought, stabilizing AI, and telling stories that hold weight.
 
-I work in the real world (industrial laser operator by day) and build advanced AI systems on breaks, lunch, and between cuts.  
-My work blends **engineering mindset**, **psychology**, **narrative logic**, and **LLM mechanics** into a single operator discipline.
+My work blends **blue-collar discipline**, **psychology**, **engineering logic**, and **LLM behavior** into a single operator practice.
 
 ---
 
-## 🔥 What I Build
+# 🔥 What I Build
 
-### **🛡️ Six-Demon Drift Architecture (v1.1)**  
-A diagnostic system for identifying and correcting the six primary failure modes of modern AI:
+## **🛡️ Six-Demon Drift Architecture (v1.1)**  
+A diagnostic structure for identifying and correcting the six primary destabilization modes in AI:
+
 - Role Drift  
 - Tone Drift  
 - Format Drift  
@@ -20,53 +21,59 @@ A diagnostic system for identifying and correcting the six primary failure modes
 - Scope Drift  
 - Confidence Drift  
 
-This architecture is the backbone of my multi-model stabilization work.
+This is the backbone of my operator discipline.
 
 ---
 
-### **⚙️ Ironbound Lockstep Protocol**  
-A multi-agent orchestration pipeline coordinating:
-- GPT — Architect  
-- Claude — Logic Officer  
-- Grok — Stress Tester  
-- Gemini — Cross-Check & Polisher  
+## **⚙️ Ironbound Lockstep Protocol**  
+A multi-agent AI orchestration method assigning fixed roles to each model:
 
-Designed to keep outputs **coherent, aligned, and drift-free** across long projects.
+- **GPT** — Architect  
+- **Claude** — Logic Officer / Editor  
+- **Grok** — Stress Tester  
+- **Gemini** — Cross-Check & Polisher  
+
+Built to keep long-form, multi-model workflows **coherent, aligned, and drift-free**.
 
 ---
 
-### **🧠 The Internal Physics of Being Alive**  
-A cognitive-structural system describing:
+## **🧠 The Internal Physics of Being Alive**  
+A cognitive framework describing human behavior as a system of:
+
 - pressure  
 - load-bearing meaning  
 - distortion  
 - cracking  
+- access  
 - redistribution  
 
-Used across storytelling, character logic, mental models, and AI reasoning.
+Used for narrative logic, character psychology, trauma architecture, and AI reasoning.
 
 ---
 
-## 🏗️ Current Projects
+# 🏗️ Current Story Projects
 
-### **Ironbound Lab**  
-AI systems, operator tools, frameworks, and protocols.
-
-### **Breaking the Pattern (Series)**  
-A grounded drama on loyalty, violence, generational cycles, and repair.
-
-### **The Load / Last Witness (Feature + Series)**  
-Prestige sci-fi + psychological anthology built on structural truth mechanics.
-
-### **The Prompt (Film)**  
-A socio-technical thriller about exposure, corruption, and consequence.
-
-### **Spudmageddon**  
-A cosmic disaster comedy involving Lizzo, Post Malone, and a Texas-sized potato.
+## **Breaking the Pattern (Series)**  
+A grounded drama about loyalty, violence, fatherhood, and breaking generational cycles.
 
 ---
 
-## 🛠️ Tools I Use
+## **The Load (Feature Film)**  
+A prestige sci-fi story about time, consequence, and the brutal mechanics of irreversible choice.
+
+---
+
+## **The Last Witness (Anthology Series)**  
+A psychological thriller about lies, collapse, and the emotional physics of truth coming apart.
+
+---
+
+## **Stone & Bone (Adventure Fantasy)**  
+Ancient engineering, hidden history, mythic architecture — a universe built on structural logic and internal physics.
+
+---
+
+# 🛠️ Tools I Use
 - GPT-5.1  
 - Claude 3  
 - Grok 2  
@@ -78,14 +85,14 @@ A cosmic disaster comedy involving Lizzo, Post Malone, and a Texas-sized potato.
 
 ---
 
-## 📞 Contact
+# 📞 Contact
 **Kevin Gilbert**  
 📱 920-210-0421  
 📧 gilbertkevin759@gmail.com  
 
 ---
 
-## ⚡ Fun Fact  
-I built my first AI stabilization system while operating an industrial metal-cutting laser.  
-Blue-collar hands, white-collar output.  
-The operator life.
+# ⚡ Personal Line  
+My background is industrial and my instincts are structural.  
+I build systems, stories, and a life for my daughter the same way I run a machine —  
+**with steadiness, discipline, and the refusal to break under pressure.**
