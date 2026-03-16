@@ -1,98 +1,165 @@
-# 👋 Hey, I’m Kevin Gilbert (TB)  
-### **AI Systems Operator | Framework Architect | Story Engineer | Midwestern Builder**
+# Kevin Gilbert
+AI Systems Architecture • Governance for Agentic AI • Control Systems Thinking
 
-I’m a Midwestern machinist and father who creates in the margins of his life — between laser cuts, on lunch breaks, and after the world goes quiet.  
-What I build isn’t code or apps.  
-I build **systems**: tools for controlling drift, structuring thought, stabilizing AI, and telling stories that hold weight.
+Independent builder exploring how autonomous AI systems can be stabilized through layered governance, drift detection, and deterministic control.
 
-My work blends **blue-collar discipline**, **psychology**, **engineering logic**, and **LLM behavior** into a single operator practice.
-
----
-
-# 🔥 What I Build
-
-## **🛡️ Six-Demon Drift Architecture (v1.1)**  
-A diagnostic structure for identifying and correcting the six primary destabilization modes in AI:
-
-- Role Drift  
-- Tone Drift  
-- Format Drift  
-- Intent Drift  
-- Scope Drift  
-- Confidence Drift  
-
-This is the backbone of my operator discipline.
+Background in hands-on engineering and systems thinking.  
+Current focus: governance architectures for agentic AI workflows.
 
 ---
 
-## **⚙️ Ironbound Lockstep Protocol**  
-A multi-agent AI orchestration method assigning fixed roles to each model:
+## Core Concept
 
-- **GPT** — Architect  
-- **Claude** — Logic Officer / Editor  
-- **Grok** — Stress Tester  
-- **Gemini** — Cross-Check & Polisher  
+Many emerging AI systems are moving toward **agentic execution**:
 
-Built to keep long-form, multi-model workflows **coherent, aligned, and drift-free**.
+LLM → tools → actions → autonomous workflows.
 
----
+Operator / Agent  
+↓  
+Governance Kernel (D.A.D.)  
+↓  
+Drift Detection (Twelve Demons Ontology)  
+↓  
+Supervisory Architecture (E.L.E.N.A.)  
+↓  
+Structured Execution & Logging
+The question becomes:
 
-## **🧠 The Internal Physics of Being Alive**  
-A cognitive framework describing human behavior as a system of:
+How do we **govern execution before actions occur?**
 
-- pressure  
-- load-bearing meaning  
-- distortion  
-- cracking  
-- access  
-- redistribution  
-
-Used for narrative logic, character psychology, trauma architecture, and AI reasoning.
+My work explores a layered **AI control architecture** that detects reasoning instability and enforces deterministic execution constraints.
 
 ---
 
-# 🏗️ Current Story Projects
+## Ironbound AI Control Stack
 
-## **Breaking the Pattern (Series)**  
-A grounded drama about loyalty, violence, fatherhood, and breaking generational cycles.
+Experimental architecture exploring governance for agentic AI systems.
 
----
+```
+Operator / Agent
+       │
+       ▼
++---------------------------+
+|  Governance Kernel        |
+|  (D.A.D.)                 |
++---------------------------+
+       │
+       ▼
++---------------------------+
+|  Drift Detection          |
+|  Twelve Demons Ontology   |
++---------------------------+
+       │
+       ▼
++---------------------------+
+|  Supervisory Architecture |
+|  (E.L.E.N.A.)             |
++---------------------------+
+       │
+       ▼
++---------------------------+
+|  Structured Execution     |
+|  Logging / Audit Trails   |
++---------------------------+
+```
 
-## **The Load (Feature Film)**  
-A prestige sci-fi story about time, consequence, and the brutal mechanics of irreversible choice.
-
----
-
-## **The Last Witness (Anthology Series)**  
-A psychological thriller about lies, collapse, and the emotional physics of truth coming apart.
-
----
-
-## **Stone & Bone (Adventure Fantasy)**  
-Ancient engineering, hidden history, mythic architecture — a universe built on structural logic and internal physics.
-
----
-
-# 🛠️ Tools I Use
-- GPT-5.1  
-- Claude 3  
-- Grok 2  
-- Gemini Advanced  
-- GitHub  
-- VS Code  
-- GitHub Copilot  
-- Python, Markdown, JSON  
-
----
-
-# 📞 Contact
-**Kevin Gilbert**  
-📱 920-210-0421  
-📧 gilbertkevin759@gmail.com  
+The goal is to explore **pre-execution control layers** for agentic AI systems.
 
 ---
 
-# ⚡ Personal Line  
-My background is industrial and my instincts are structural.  
-I build systems, stories, and a life for my daughter the same way I run a machine —  
-**with steadiness, discipline, and the refusal to break under pressure.**
+The goal is to explore **pre-execution control layers** for AI systems.
+
+---
+
+## Key Projects
+
+### D.A.D. — Deterministic Autonomous Directives
+Pre-execution governance kernel for modular AI systems.
+
+Features:
+- delegation validation
+- constraint enforcement
+- drift classification
+- deterministic state routing
+- structured execution logging
+
+Repo:
+https://github.com/ironboundpotato/DAD-Governance-Kernel
+
+---
+
+### Twelve Demons of Drift
+Ontology of reasoning failure modes in AI systems.
+
+Defines structured categories of instability such as:
+
+- Role Drift
+- Intent Drift
+- Context Drift
+- Goal Drift
+- Alignment Drift
+- Hijack Drift
+
+Repo:
+https://github.com/ironboundpotato/twelve-demons-drift-ontology
+
+---
+
+### E.L.E.N.A. Governance Architecture
+Supervisory architecture for drift-aware AI systems.
+
+Explores governance layers responsible for:
+
+- drift monitoring
+- system supervision
+- escalation pathways
+- execution containment
+
+Repo:
+https://github.com/ironboundpotato/elena-governance-architecture
+
+---
+
+### Ironbound AI Control Stack
+Integration layer exploring orchestration of the full control architecture.
+
+Repo:
+https://github.com/ironboundpotato/ironbound-ai-control-stack
+
+---
+
+### Ironbound Lab
+Sandbox for experimental protocols, system models, and operator tooling.
+
+Repo:
+https://github.com/ironboundpotato/ironbound-lab
+
+---
+
+## Research Direction
+
+Exploring governance-first architectures for:
+
+- agentic AI systems
+- tool-using LLM workflows
+- execution control layers
+- drift-aware reasoning systems
+
+Focus areas:
+
+AI governance  
+autonomous system control  
+reasoning stability  
+system architecture
+
+---
+
+## About
+
+Kevin Gilbert  
+Systems thinker exploring control architectures for AI.
+Email: gilbertkevin759@gmail.com
+
+GitHub:
+https://github.com/ironboundpotato
+
