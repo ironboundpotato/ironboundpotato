@@ -164,6 +164,7 @@ system architecture
 
 Kevin Gilbert  
 Systems thinker exploring control architectures for AI.
+
 Email: gilbertkevin759@gmail.com
 
 GitHub:
