@@ -29,7 +29,7 @@ How do we **govern execution before actions occur?**
 
 My work explores a layered **AI control architecture** that detects reasoning instability and enforces deterministic execution constraints.
 
-## Architecture Projects
+## Ironbound Governance Stack
 
 | Layer | Project | Purpose |
 |------|------|------|
