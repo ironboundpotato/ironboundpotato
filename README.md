@@ -77,10 +77,6 @@ The goal is to explore **pre-execution control layers** for agentic AI systems.
 
 ---
 
-The goal is to explore **pre-execution control layers** for AI systems.
-
----
-
 ## Key Projects
 
 ### D.A.D. — Deterministic Autonomous Directives
