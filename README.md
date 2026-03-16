@@ -29,6 +29,16 @@ How do we **govern execution before actions occur?**
 
 My work explores a layered **AI control architecture** that detects reasoning instability and enforces deterministic execution constraints.
 
+## Architecture Projects
+
+| Layer | Project | Purpose |
+|------|------|------|
+| Governance Kernel | [DAD-Governance-Kernel](https://github.com/ironboundpotato/DAD-Governance-Kernel) | Deterministic pre-execution governance for modular AI systems |
+| Drift Ontology | [twelve-demons-drift-ontology](https://github.com/ironboundpotato/twelve-demons-drift-ontology) | Formal taxonomy of reasoning instability and AI drift modes |
+| Supervisory Architecture | [elena-governance-architecture](https://github.com/ironboundpotato/elena-governance-architecture) | Governance-first supervisory architecture for drift-aware systems |
+| Control Stack | [ironbound-ai-control-stack](https://github.com/ironboundpotato/ironbound-ai-control-stack) | Integration layer for orchestrating governance + drift diagnostics |
+| Research Lab | [ironbound-lab](https://github.com/ironboundpotato/ironbound-lab) | Sandbox for experimental protocols and operator tooling |
+
 ---
 
 ## Ironbound AI Control Stack
