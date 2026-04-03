@@ -1,12 +1,15 @@
 IRONBOUND AI
+----------------------------------------
 
 Governance-first control architecture for stabilizing autonomous AI systems
 
 Deterministic supervision layer for agentic workflows combining:
 
-Pre-execution governance (D.A.D.)
-Drift detection (Twelve Demons Ontology)
-Supervisory control (E.L.E.N.A.)
+• Pre-execution governance (D.A.D.)
+• Drift detection (Twelve Demons Ontology)
+• Supervisory control (E.L.E.N.A.)
+
+----------------------------------------
 
 WHAT THIS IS
 
@@ -14,12 +17,14 @@ Ironbound AI is a deterministic control plane for AI systems.
 
 It ensures:
 
-No action executes without validation
-Drift is detected and classified
-Instability is corrected through deterministic routing
+• No action executes without validation  
+• Drift is detected and classified  
+• Instability is corrected through deterministic routing  
 
-Probabilistic reasoning is allowed.
+Probabilistic reasoning is allowed.  
 Governance is not.
+
+----------------------------------------
 
 WHY THIS MATTERS
 
@@ -32,128 +37,157 @@ but from instability under pressure.
 
 This architecture treats instability as a structural problem:
 
-Detect it
-Classify it
-Control it
+• Detect it  
+• Classify it  
+• Control it  
 
 Not after execution — before it.
 
-SYSTEM FLOW (DIAGRAM — PLACE MANUALLY)
+----------------------------------------
 
-Operator / Agent
-↓
-Governance Kernel (D.A.D.)
-↓
-Drift Detection (Twelve Demons Ontology)
-↓
-Supervisory Architecture (E.L.E.N.A.)
-↓
-Structured Execution + Logging
+SYSTEM FLOW
+
++----------------------+
+|   Operator / Agent   |
++----------------------+
+           |
+           v
++----------------------+
+| Governance Kernel    |
+|        (D.A.D.)      |
++----------------------+
+           |
+           v
++----------------------+
+| Drift Detection      |
+| (12 Demons Ontology) |
++----------------------+
+           |
+           v
++----------------------+
+| Supervisory System   |
+|      (E.L.E.N.A.)    |
++----------------------+
+           |
+           v
++----------------------+
+| Execution + Logging  |
++----------------------+
+
+----------------------------------------
 
 SYSTEM ARCHITECTURE
 
 The Ironbound system is composed of layered control components:
 
-Layer: Governance Kernel
-Project: DAD-Governance-Kernel
-Purpose: Deterministic pre-execution governance for modular AI systems
+Governance Kernel
+DAD-Governance-Kernel
+→ Deterministic pre-execution governance
 
-Layer: Drift Ontology
-Project: twelve-demons-drift-ontology
-Purpose: Formal taxonomy of reasoning instability and AI drift modes
+Drift Ontology
+twelve-demons-drift-ontology
+→ Classification of AI instability and drift
 
-Layer: Supervisory Architecture
-Project: elena-governance-architecture
-Purpose: Governance-first supervisory architecture for drift-aware systems
+Supervisory Architecture
+elena-governance-architecture
+→ Drift-aware system supervision
 
-Layer: Control Stack
-Project: ironbound-ai-control-stack
-Purpose: Integration layer orchestrating governance and drift diagnostics
+Control Stack
+ironbound-ai-control-stack
+→ Integration layer for orchestration
 
-Layer: Research Lab
-Project: ironbound-lab
-Purpose: Sandbox for experimental protocols and operator tooling
+Research Lab
+ironbound-lab
+→ Experimental sandbox environment
+
+----------------------------------------
 
 IRONBOUND AI CONTROL STACK
 
-Experimental architecture exploring governance for agentic AI systems.
-
 Operator / Agent
-↓
+        |
+        v
 Governance Kernel (D.A.D.)
-↓
-Drift Detection (Twelve Demons Ontology)
-↓
+        |
+        v
+Drift Detection (Twelve Demons)
+        |
+        v
 Supervisory Architecture (E.L.E.N.A.)
-↓
+        |
+        v
 Structured Execution + Audit Logging
 
-The goal is to explore pre-execution control layers for agentic AI systems.
+----------------------------------------
 
 KEY PROJECTS
 
 D.A.D. — Deterministic Autonomous Directives
-Pre-execution governance kernel for modular AI systems
 
-Features:
+• Delegation validation  
+• Constraint enforcement  
+• Drift classification  
+• Deterministic state routing  
+• Structured logging  
 
-delegation validation
-constraint enforcement
-drift classification
-deterministic state routing
-structured execution logging
+Repo:
+https://github.com/ironboundpotato/DAD-Governance-Kernel
 
-Repo: https://github.com/ironboundpotato/DAD-Governance-Kernel
+----------------------------------------
 
-Twelve Demons Drift Ontology
+TWELVE DEMONS — DRIFT ONTOLOGY
 
-Formal classification system for AI instability and drift behavior
+• Role drift  
+• Intent drift  
+• Execution drift  
+• Confidence drift  
+• Alignment drift  
+• Hijack drift  
 
-Examples:
+Repo:
+https://github.com/ironboundpotato/twelve-demons-drift-ontology
 
-role drift
-intent drift
-execution drift
-confidence drift
-alignment drift
-hijack drift
+----------------------------------------
 
-Repo: https://github.com/ironboundpotato/twelve-demons-drift-ontology
+E.L.E.N.A. — GOVERNANCE ARCHITECTURE
 
-E.L.E.N.A. — Governance Architecture
+• Drift monitoring  
+• System supervision  
+• Escalation pathways  
+• Execution containment  
 
-Supervisory architecture for drift-aware AI systems
+Repo:
+https://github.com/ironboundpotato/elena-governance-architecture
 
-Focus areas:
+----------------------------------------
 
-drift monitoring
-system supervision
-escalation pathways
-execution containment
+CONTROL STACK
 
-Repo: https://github.com/ironboundpotato/elena-governance-architecture
+Integration layer orchestrating full governance system
 
-Ironbound AI Control Stack
+Repo:
+https://github.com/ironboundpotato/ironbound-ai-control-stack
 
-Integration layer orchestrating the full control architecture
-
-Repo: https://github.com/ironboundpotato/ironbound-ai-control-stack
+----------------------------------------
 
 SYSTEM CHARACTERISTICS
 
-Deterministic where it matters
-Observable at every step
-Auditable end-to-end
-Resistant to drift across long execution chains
-Bounded autonomy under operator authority
+• Deterministic where it matters  
+• Observable at every step  
+• Auditable end-to-end  
+• Drift-resistant across long chains  
+• Bounded autonomy under operator control  
+
+----------------------------------------
 
 SYSTEM PRINCIPLE
 
-All components operate under a shared structural model:
-
 Pressure → Load → Drift → Failure → Correction
 
-Derived from: Internal Physics of Being Alive
+Derived from:
+Internal Physics of Being Alive
+
+----------------------------------------
 
 AUTHOR
 
