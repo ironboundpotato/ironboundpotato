@@ -77,7 +77,7 @@ The goal is to explore **pre-execution control layers for agentic AI systems**.
 
 ## Key Projects
 
-### D.A.D. ��� Deterministic Autonomous Directives  
+### D.A.D. Deterministic Autonomous Directives  
 Pre-execution governance kernel for modular AI systems  
 
 Features:
