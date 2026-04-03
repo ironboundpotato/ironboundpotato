@@ -18,15 +18,17 @@ LLM → tools → actions → autonomous workflows
 
 Ironbound introduces a **control layer between intent and execution**:
 
-Operator / Agent  
-↓  
-Governance Kernel (D.A.D.)  
-↓  
-Drift Detection (Twelve Demons Ontology)  
-↓  
-Supervisory Architecture (E.L.E.N.A.)  
-↓  
-Structured Execution & Logging  
+```
+Operator / Agent
+       ↓
+Governance Kernel (D.A.D.)
+       ↓
+Drift Detection (Twelve Demons Ontology)
+       ↓
+Supervisory Architecture (E.L.E.N.A.)
+       ↓
+Structured Execution & Logging
+```
 
 ---
 
@@ -46,38 +48,28 @@ Structured Execution & Logging
 
 Experimental architecture exploring governance for agentic AI systems.
 
----
-
+```
 Operator / Agent
-|
-v
+       ↓
 +-----------------------------+
-| Governance Kernel |
-| (D.A.D.) |
+| Governance Kernel (D.A.D.)  |
 +-----------------------------+
-|
-v
+       ↓
 +-----------------------------+
-| Drift Detection |
-| (Twelve Demons Ontology) |
+| Drift Detection             |
+| (Twelve Demons Ontology)    |
 +-----------------------------+
-|
-v
+       ↓
 +-----------------------------+
-| Supervisory Architecture |
-| (E.L.E.N.A.) |
+| Supervisory Architecture    |
+| (E.L.E.N.A.)               |
 +-----------------------------+
-|
-v
+       ↓
 +-----------------------------+
-| Structured Execution |
-| Logging / Audit Trails |
+| Structured Execution        |
+| Logging / Audit Trails      |
 +-----------------------------+
-
-The goal is to explore **pre-execution control layers for agentic AI systems**.
-
----
-
+```
 
 The goal is to explore **pre-execution control layers for agentic AI systems**.
 
@@ -85,7 +77,7 @@ The goal is to explore **pre-execution control layers for agentic AI systems**.
 
 ## Key Projects
 
-### D.A.D. — Deterministic Autonomous Directives  
+### D.A.D. ��� Deterministic Autonomous Directives  
 Pre-execution governance kernel for modular AI systems  
 
 Features:
