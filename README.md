@@ -148,3 +148,5 @@ Kevin Gilbert
 AI Systems Architecture  
 Governance for Agentic AI  
 Control Systems Thinking  
+
+Email: gilbertkevin759@gmail.com
