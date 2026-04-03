@@ -46,6 +46,8 @@ Structured Execution & Logging
 
 Experimental architecture exploring governance for agentic AI systems.
 
+---
+
 Operator / Agent
 |
 v
@@ -71,7 +73,6 @@ v
 | Structured Execution |
 | Logging / Audit Trails |
 +-----------------------------+
-
 
 The goal is to explore **pre-execution control layers for agentic AI systems**.
 
